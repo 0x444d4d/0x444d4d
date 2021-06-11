@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **0x444d4d.pm.me**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/david-mart%C3%ADn-a7b904155/](https://www.linkedin.com/in/david-mart%C3%ADn-a7b904155/)
+- 📄 Know about my experiences [0x444d4d.github.io](https://0x444d4d.github.io/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
